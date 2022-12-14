@@ -1,0 +1,52 @@
+body {
+  background-color: rgba(31, 31, 31, 0.888);
+}
+h1 {
+  color: rgba(230, 220, 223, 0.798);
+}
+h2 {
+  color: rgb(157, 203, 157);
+}
+h3 {
+  color: aquamarine;
+}
+h4 {
+  color: greenyellow;
+}
+h5 {
+  color: rgb(56, 10, 99);
+}
+h6 {
+  color: fuchsia;
+}
+p {
+  color: rgb(186, 234, 234);
+  font-size: 40px;
+}
+#video{ background-color: rgb(101, 110, 101);}
+#gif{ background-color: rgb(147, 147, 147);}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+#rex{ background-color: darkslategray;}
+#bro{ background-color: (31, 31, 31, 0.888) ;}
